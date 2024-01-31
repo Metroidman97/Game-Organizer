@@ -16,29 +16,25 @@ players to organize their collections and connect with others with similar inter
 
 ## User Stories
 
-- As a fan of a specific series
-- I need to search for games specifically in that series
-- So that I can find games in that series I might not have played
+As a fan of a specific series  
+I need to search for games specifically in that series  
+So that I can find games in that series I might not have played  
 
-- As a gamer with a large collection
-- I need to tag games in the database that I own
-- So that I can see just how many games I have
+As a gamer with a large collection  
+I need to tag games in the database that I own  
+So that I can see just how many games I have  
 
-- As a fan of certain games with few friends
-- I need see what kinds of games other people like
-- So that I can find people who like the kinds of games I like and can connect with
+As a fan of certain games with few friends  
+I need see what kinds of games other people like  
+So that I can find people who like the kinds of games I like and can connect with  
 
-As a new user
+As a new user  
+I need to be able to create an account and log in  
+So that I can start listing the games I own  
 
-
-I need to be able to create an account and log in
-
-
-So that I can start listing the games I own
-
-As a database manager
-I need to be able to insert new games into the database
-So that the database is more complete and users can include all games in their collection
+As a database manager  
+I need to be able to insert new games into the database  
+So that the database is more complete and users can include all games in their collection  
 
 ## Initial Use Cases
 

@@ -37,5 +37,5 @@ I need to be able to insert new games into the database
 So that the database is more complete and users can include all games in their collection  
 
 ## Initial Use Cases
-
+[link to use cases](documents/Use Cases.docx)
 ## Use Case Diagram

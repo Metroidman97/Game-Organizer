@@ -40,3 +40,4 @@ So that the database is more complete and users can include all games in their c
 [link to use cases](documents/Use%20Cases.docx)  
 Will have to download file
 ## Use Case Diagram
+![alt text](images./Use%20Case%20Diagram.png "Use case diagram")

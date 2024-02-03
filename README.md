@@ -12,6 +12,8 @@ players to organize their collections and connect with others with similar inter
 
 ## Solution Architecture Diagram
 
+![alt text](images./Solution%20architecture%20diagram.png "Solution Architecture Diagram")
+
 ## Wireframe Diagrams
 
 ## User Stories
@@ -37,7 +39,10 @@ I need to be able to insert new games into the database
 So that the database is more complete and users can include all games in their collection  
 
 ## Initial Use Cases
+
 [link to use cases](documents/Use%20Cases.docx)  
 Will have to download file
+
 ## Use Case Diagram
+
 ![alt text](images./Use%20Case%20Diagram.png "Use case diagram")

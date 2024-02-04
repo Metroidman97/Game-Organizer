@@ -16,6 +16,12 @@ players to organize their collections and connect with others with similar inter
 
 ## Wireframe Diagrams
 
+Home Page Wireframe Diagram
+![alt text](images./Game%20Organizer%20Wireframe%20Homepage.png "Home Page Wireframe")
+
+Search Page Wireframe Diagram
+![alt text](images./Game%20Organizer%20Wireframe%20Search%20Page.png "Search Page Wireframe")
+
 ## User Stories
 
 As a fan of a specific series  

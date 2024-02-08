@@ -1,5 +1,14 @@
 # Game-Organizer
 
+Table of Contents:
+
+[Overview](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#overview)  
+[Solution Architecture Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#solution-architecture-diagram)  
+[Wireframe Diagrams](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#wireframe-diagrams)  
+[User Stories](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#user-stories)  
+[Initial Use Cases](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#initial-use-cases)  
+[Use Case Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#use-case-diagram)
+
 ## Overview
 
 The Game Organizer is intended to be an easy and convenient way for people to organize their game

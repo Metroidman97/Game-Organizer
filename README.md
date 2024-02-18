@@ -7,7 +7,8 @@ Table of Contents:
 [Wireframe Diagrams](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#wireframe-diagrams)  
 [User Stories](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#user-stories)  
 [Initial Use Cases](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#initial-use-cases)  
-[Use Case Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#use-case-diagram)
+[Use Case Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#use-case-diagram)  
+[Project Requirements Table](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#project-requirements-table)
 
 ## Overview
 
@@ -61,3 +62,14 @@ Will have to download file
 ## Use Case Diagram
 
 ![alt text](images./Use%20Case%20Diagram.png "Use case diagram")
+
+## Project Requirements Table
+
+|ID|Requirement|Description|
+|---|---|---|
+|001|Login/Logout|The software will give users the ability to log into/sign out of their account|
+|002|Tag owned/wanted games|The software will give users the ability to tag games in the database that they own/want|
+|003|Search database|The software will give users the ability to search through the contents of the database|
+|004|Filter search|The software will give users the ability to filter their searches by premade parameters|
+|005|Modify database|The software will give authorized users the ability to modify the database (inset/update/delete entries) via a DBMS|
+|006|Search profiles|The software will give users the ability to view the profiles and owned/wanted lists of other users|

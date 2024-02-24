@@ -8,7 +8,9 @@ Table of Contents:
 [User Stories](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#user-stories)  
 [Initial Use Cases](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#initial-use-cases)  
 [Use Case Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#use-case-diagram)  
-[Project Requirements Table](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#project-requirements-table)
+[Project Requirements Table](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#project-requirements-table)  
+[ERD](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#erd)  
+[UML Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#uml-diagram)
 
 ## Overview
 
@@ -73,3 +75,11 @@ Will have to download file
 |004|Filter search|The software will give users the ability to filter their searches by premade parameters|
 |005|Modify database|The software will give authorized users the ability to modify the database (inset/update/delete entries) via a DBMS|
 |006|Search profiles|The software will give users the ability to view the profiles and owned/wanted lists of other users|
+
+## ERD
+
+![alt text](images./Chen%20ERD.png "Entity relation diagram")
+
+## UML Diagram
+
+![alt text](images./UML%20Class%20diagram.png "UML Class Diagram")

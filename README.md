@@ -22,6 +22,8 @@ contain several parameters users can filter their search by, to make finding gam
 with potential forum features, or just simply linking to dedicated discord servers, the site would allow
 players to organize their collections and connect with others with similar interests.
 
+Update: New features include being able to sort games by things like title and rating, and the site will include the game’s Metacritic score as a parameter.
+
 ## Solution Architecture Diagram
 
 ![alt text](images./Solution%20architecture%20diagram.png "Solution Architecture Diagram")

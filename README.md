@@ -10,7 +10,8 @@ Table of Contents:
 [Use Case Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#use-case-diagram)  
 [Project Requirements Table](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#project-requirements-table)  
 [ERD](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#erd)  
-[UML Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#uml-diagram)
+[UML Diagram](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#uml-diagram)  
+[Data Access Layer](https://github.com/Metroidman97/Game-Organizer/blob/main/README.md#data-access-layer)
 
 ## Overview
 
@@ -85,3 +86,9 @@ Will have to download file
 ## UML Diagram
 
 ![alt text](images./UML%20Class%20diagram.png "UML Class Diagram")
+
+## Data Access Layer
+
+![alt text](images./Class%20code.png "Class model code")
+
+![alt text](images./class%20code%20http%20response.png "http response")
